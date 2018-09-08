@@ -1,0 +1,30 @@
+{
+  "author": "Aram Petrosyan",
+  "bugs": {
+    "url": "https://github.com/apzuk/github.com/apzuk/selenium-compose/issues"
+  },
+  "description": "Code-free selenium tests composition",
+  "homepage": "https://github.com/apzuk/selenium-compose#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "Aram petrosyan",
+      "email": "aram.petrosyan.88@gmail.com"
+    }
+  ],
+  "name": "selenium-compose",
+  "readme": "Ehttps://github.com/apzuk/selenium-compose#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selenium-compose.git"
+  },
+  "bin": {
+    "selenium-compose": "./selenium-compose.js"
+  },
+  "version": "1.0.97-93",
+  "dependencies": {
+    "download-github-release": "^0.3.2",
+    "mkdirp": "^0.5.1",
+    "targz": "^1.0.1"
+  }
+}
