@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/selenium-compose/selenium-compose.svg?branch=master)](https://travis-ci.org/selenium-compose/selenium-compose)
 ![stability-stable](https://img.shields.io/badge/stability-stable-green.svg)
 # Selenium Compose
 
