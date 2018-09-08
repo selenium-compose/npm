@@ -7,6 +7,21 @@
 
 Selenium Compose is a code-free, description-driven [selenium tests](https://www.seleniumhq.org/) composition.
 
+## Installation
+
+First install [Selenium Standalone](https://www.npmjs.com/package/selenium-standalone)
+and start Selenium Server
+
+```bash
+npm install selenium-standalone@latest -g
+selenium-standalone install && selenium-standalone start
+```
+
+```bash
+npm install selenium-compose
+selenium-compose doc title
+```
+
 ## Overview
 
 * Code-free selenium tests composition
